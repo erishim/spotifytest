@@ -45,7 +45,7 @@ header{
 	padding-top: 255px;
 	padding-left: 370px;
 	background-image: url("../img/bkg1.jpg");
-	background-size: 100%
+	background-size: 100%;
 	background-repeat:no-repeat;
 	padding-bottom:200px;
 }
@@ -114,4 +114,25 @@ section{
 .albuns{
 	width: 550px;
 }
+ /* inicio seçao 3*/
 
+.secao3{
+	margin-top: 50px;
+	height: 600px;
+	background-image: url("../img/bkg2.jpg");
+	background-size: 100%;
+	background-repeat:no-repeat;
+}
+
+.facil{
+	float: right;
+	margin-top: 70px;
+	margin-right: 315px;
+	color: white;
+}
+
+.titulo-2{
+	font-size:40px;
+	font-weight: bold;
+	color: white;
+}
